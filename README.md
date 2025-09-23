@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+🔭 I’m currently working on  coding a robot to play a board game
+🌱 I’m currently learning R
+📫 How to reach me: ggee1@bryant.edu
 
